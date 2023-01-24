@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
+global.owner = ['94773614270'] //ur owner number
+global.ownername = "REAL NOTY" //ur owner name
 global.ytname = "YT: HELA CLOUD" //ur yt chanel name
 global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.location = "Sri Lanka, Colombo, Homagama" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
+global.ownernomer = "94773614270" //ur number
+global.premium = ['94773614270'] //ur premium number
+global.botname = '𝙱𝙻𝙰𝙲𝙺 𝙳𝚁𝙰𝙶𝙾𝙽 𝙼𝙳' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
+global.websitex = "https://www.youtube.com/@alinesantamd12" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
-global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.themeemoji = "✌️" //ur theme emoji
+global.packname = "Sticker By 𝙱𝙻𝙰𝙲𝙺 𝙳𝚁𝙰𝙶𝙾𝙽 𝙼𝙳" //ur sticker watermark packname
+global.author = "REAL NOTY" //ur sticker watermark author
+global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗠𝗗" //ur watermark
 
 // Other
 global.sessionName = 'session'
